@@ -8,7 +8,7 @@ The garage diorama was developed by a small group of individuals:
 
 - [`laoclos`](https://github.com/laoclos)
 - [`solacol`](https://github.com/solacol)
-- [`DerAlexmeister`](https://github.com/DerAlexmeister)
+- [`Alex`]
 - [`fleonce`](https://github.com/fleonce)
 - `Theresa`
 
